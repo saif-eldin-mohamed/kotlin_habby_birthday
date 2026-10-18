@@ -7,4 +7,12 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- Business Card colors -->
+    <color name="background_mint">#FFD0E8D0</color>
+    <color name="android_logo_bg">#FF073042</color>
+    <color name="android_green">#FF3DDC84</color>
+    <color name="text_primary">#FF1C1B1F</color>
+    <color name="title_green">#FF006D3B</color>
+    <color name="icon_green">#FF006D3B</color>
 </resources>
